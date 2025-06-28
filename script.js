@@ -1,0 +1,1 @@
+alert("Welcome to Phishing Awareness Training!");
